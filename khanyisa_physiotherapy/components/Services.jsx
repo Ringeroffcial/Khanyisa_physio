@@ -47,7 +47,7 @@ const Services = () => {
         "Joint mobilization techniques",
         "Return to work/sports programs"
       ],
-      image: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop",
+      image: "https://tse4.mm.bing.net/th/id/OIP.XpfMI7CElrgNNX6tCCRv8QHaLS?rs=1&pid=ImgDetMain&o=7&rm=3",
       alt: "Fracture rehabilitation with crutches training",
       color: "service-purple"
     },
@@ -63,7 +63,7 @@ const Services = () => {
         "Coordination and balance exercises",
         "Play-based therapy approaches"
       ],
-      image: "https://images.unsplash.com/photo-1622572793569-2140e86d7f5f?w=600&h=400&fit=crop",
+      image: "https://png.pngtree.com/png-clipart/20250523/original/pngtree-cute-cartoon-child-physiotherapy-session-png-image_21058826.png",
       alt: "Pediatric physiotherapy session",
       color: "service-orange",
       reverse: true
